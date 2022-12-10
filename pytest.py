@@ -1,5 +1,5 @@
-import unittest
 from compute_stats_refactor import *
+import unittest
 
 class Test_Compute_Stats(unittest.TestCase):
     def test_read_ints(self):
